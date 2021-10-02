@@ -1,6 +1,6 @@
 const request = require("request");
 const argv = require("yargs").argv;
-// require("dotenv").config();
+require("dotenv").config();
 
 let apiKey = process.env.apiKey;
 let city = argv.c || "London";
