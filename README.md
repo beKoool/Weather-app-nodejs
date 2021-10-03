@@ -1,6 +1,6 @@
 # Weather app (nodejs)
 
-Hi! This is one of my first nodejs projects. It gives the weather (Fahrenheit) of the location you specify. This is made using nodejs and request module. I have named it as **Weather app**. I am thinking to improve this project as I learn more about nodejs and its modules.
+Hi! This is one of my first nodejs projects. It gives the weather of the location you specify. This is made using nodejs and request module. I have named it as **Weather app**. I am thinking to improve this project as I learn more about nodejs and its modules.
 
 # How to run it?
 
